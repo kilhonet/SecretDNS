@@ -1,4 +1,4 @@
-# 시크릿DNS (SecretDNS)
+# 시크릿DNS
 
 **DNS over HTTPS 와 SNI 파편화로 인터넷 감청(DPI)을 우회하는, 클릭 한 번으로 켜는 Windows 용 무료 프로그램.**
 
