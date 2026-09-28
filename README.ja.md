@@ -185,7 +185,7 @@ SecretDNS は実行前に DNS サーバーへ届くかを先に確認し、実�
 
 ## アップデート
 
-SecretDNS は自動的にはアップデート**しません**。起動時に新バージョンの有無を確認して案内画面を表示し、**[はい]** を押すとダウンロードページが開いてプログラムが終了します。新バージョンは内部検証の後に手動で配布され、[SecretDNS ページ](https://v2.kilho.net/secretdns)で告知されます。[アップデートポリシー](https://en.kilho.net/archives/notice/2940)をご覧ください。
+SecretDNS は自動的にはアップデート**しません**。起動時に新バージョンの有無を確認して案内画面を表示し、**[はい]** を押すとダウンロードページが開いてプログラムが終了します。新バージョンは内部検証の後に手動で配布され、[SecretDNS ページ](https://kilho.net/secretdns)で告知されます。[アップデートポリシー](https://en.kilho.net/archives/notice/2940)をご覧ください。
 
 **バージョン履歴**
 
@@ -202,7 +202,7 @@ SecretDNS は**フリーウェア**です。会社、自宅、官公庁、学校
 
 ## リンク
 
-- Web サイト: <https://v2.kilho.net/secretdns>
+- Web サイト: <https://kilho.net/secretdns>
 - フォーラム: <https://groups.google.com/g/kilhonet>
 - X (Twitter): <https://www.twitter.com/kilhonet>
 

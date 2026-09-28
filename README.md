@@ -185,7 +185,7 @@ The display language follows the Windows display language (Korean · English · 
 
 ## Updates
 
-SecretDNS does **not** update itself. At launch it checks whether a new version exists and shows a notice; pressing **Yes** opens the download page and quits the program. New versions are released manually after internal verification and announced on the [SecretDNS page](https://v2.kilho.net/secretdns). See the [update policy notice](https://en.kilho.net/archives/notice/2940).
+SecretDNS does **not** update itself. At launch it checks whether a new version exists and shows a notice; pressing **Yes** opens the download page and quits the program. New versions are released manually after internal verification and announced on the [SecretDNS page](https://kilho.net/secretdns). See the [update policy notice](https://en.kilho.net/archives/notice/2940).
 
 **Version history**
 
@@ -202,7 +202,7 @@ SecretDNS is **freeware**. Use it anywhere — at the office, at home, in govern
 
 ## Links
 
-- Website: <https://v2.kilho.net/secretdns>
+- Website: <https://kilho.net/secretdns>
 - Forum: <https://groups.google.com/g/kilhonet>
 - X (Twitter): <https://www.twitter.com/kilhonet>
 
