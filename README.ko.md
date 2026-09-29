@@ -201,7 +201,7 @@ DNS 설정 옆 **[…]** 를 누르면 **DNS 서버 설정** 창이 열립니다
 ## 링크
 
 - 웹사이트: <https://kilho.net/secretdns>
-- 포럼: <https://groups.google.com/g/kilhonet>
+- 포럼: <https://kilho.top/forum/qna>
 - X (Twitter): <https://www.twitter.com/kilhonet>
 
 © KILHO.NET

@@ -203,7 +203,7 @@ SecretDNS は**フリーウェア**です。会社、自宅、官公庁、学校
 ## リンク
 
 - Web サイト: <https://kilho.net/secretdns>
-- フォーラム: <https://groups.google.com/g/kilhonet>
+- フォーラム: <https://kilho.top/forum/qna>
 - X (Twitter): <https://www.twitter.com/kilhonet>
 
 © KILHO.NET
