@@ -54,7 +54,7 @@ Differences between the two: **Mixed Proxy** is included only in the installer v
 
 ## Usage
 
-### Basic flow
+### Getting started
 
 1. Launch SecretDNS. When the administrator prompt appears, click **Yes**.
 2. Press **Run** on the Home tab. The button briefly shows **Checking network**, then **Running**, and the notification‑area (tray) icon changes to the "on" state.

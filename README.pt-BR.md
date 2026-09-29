@@ -56,7 +56,7 @@ Diferença entre as versões: o recurso **Mixed Proxy** está incluído apenas n
 
 ## Como usar
 
-### Fluxo básico
+### Primeiros passos
 
 1. Abra o SecretDNS. Quando aparecer a janela de permissão de administrador, clique em **Sim**.
 2. Pressione **Run** na tela inicial. O botão mostra por um instante **Checking network**, depois passa a **Running**, e o ícone da área de notificação (bandeja) muda para o estado ligado.

@@ -54,7 +54,7 @@ Différence entre les deux versions : la fonction **Proxy mixte** n'est incluse 
 
 ## Utilisation
 
-### Déroulement de base
+### Premiers pas
 
 1. Lancez SecretDNS. Lorsque la fenêtre de droits d'administrateur apparaît, cliquez sur **Oui**.
 2. Appuyez sur **Démarrer** dans l'écran d'accueil. Le bouton affiche brièvement **Vérification du réseau**, puis **En cours**, et l'icône de la zone de notification passe à l'état actif.

@@ -54,7 +54,7 @@ Diferencia entre las dos versiones: la función **Proxy mixto** solo está inclu
 
 ## Uso
 
-### Flujo básico
+### Primeros pasos
 
 1. Inicie SecretDNS. Cuando aparezca la ventana de permisos de administrador, pulse **Sí**.
 2. Pulse **Ejecutar** en la pantalla de inicio. El botón muestra brevemente **Comprobando la red**, luego pasa a **Ejecutando** y el icono del área de notificación (bandeja) cambia al estado activado.
