@@ -187,15 +187,6 @@ La langue de l'interface suit la langue d'affichage de Windows (coréen · angla
 
 SecretDNS ne se met **pas** à jour tout seul. Au lancement, il vérifie si une nouvelle version existe et affiche un avis ; en appuyant sur **Oui**, la page de téléchargement s'ouvre et le programme se ferme. Les nouvelles versions sont publiées manuellement après vérification interne et annoncées sur la [page SecretDNS](https://kilho.net/secretdns). Consultez l'[avis sur la politique de mise à jour](https://en.kilho.net/archives/notice/2940).
 
-**Historique des versions**
-
-| Version | Date | Modifications |
-|---|---|---|
-| 4.0.5 | 2026-09-15 | Basculement automatique de serveur du proxy mixte pour des connexions plus stables ; utilisation du VPN plus facile à repérer dans le rapport |
-| 4.0.4 | 2026-09-14 | Mise à jour et démarrage automatique plus fiables ; proxy mixte repensé (fenêtre d'édition des domaines, réglages enregistrés) ; fenêtre Serveurs DNS pour ajouter et choisir des serveurs ; meilleure connectivité DNS chiffrée chez certains opérateurs (adresses par nom, nouveau point de connexion Cloudflare) ; conseil de choisir un autre serveur en cas d'échec ; libellés du rapport clarifiés |
-| 4.0.2 | 2026-09-04 | Correction des coupures intermittentes d'Internet dans certains environnements ; basculement automatique loin des serveurs DNS instables ; les sites continuent de s'ouvrir pendant les erreurs DNS temporaires ; la connexion chiffrée est rétablie automatiquement une fois le réseau stable |
-| 4.0.1 | 2026-08-25 | Correction de l'absence d'Internet juste après le démarrage sur certains PC ; meilleure connectivité après une mise en veille, un VPN ou un changement de Wi-Fi ; récupération automatique en cas de panne d'Internet ; affichage de l'état d'attente et de récupération |
-
 ## Licence
 
 SecretDNS est un **freeware**. Utilisez-le gratuitement et sans restriction partout — au bureau, à la maison, dans les administrations, à l'école — et redistribuez-le librement.
